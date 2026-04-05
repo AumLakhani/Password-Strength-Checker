@@ -32,22 +32,27 @@ Contains special characters → +1
 0–2 → Weak Password
 3–4 → Medium Password
 5–6 → Strong Password
+
 ---
+
 # 📥 Input
 
 User enters a password through the terminal:
 
 Enter Password: your_password_here
-📤 Output Example
+# 📤 Output Example
 Medium Password
 
 Suggestions to improve:
 - Increase length to at least 8 characters
 - Add special characters
+  
   ---
+
 # 🛠️ Technologies Used
 Python 🐍
 Basic string methods (isupper(), islower(), isdigit())
+
 ---
 
 # 💡 Future Improvements
@@ -55,7 +60,9 @@ Add GUI using Tkinter 🎨
 Add real-time strength meter 🔋
 Add password blacklist (common passwords)
 Integrate with web app 🌐
+
 ---
+
 # 👨‍💻 Author
 
 Aum Lakhani
